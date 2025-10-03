@@ -40,3 +40,5 @@ build/
 
 .smarttomcat
 dbnavigator.xml
+
+.idea

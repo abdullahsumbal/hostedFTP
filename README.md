@@ -1,7 +1,7 @@
 
 # HostedFTP Coding Test – Setup Notes
 
-The web is hosted to the link below with a custom domain and HTTPS.
+The web app is hosted on a custom HTTPS domain.
 https://hostedftp.abdullahsumbal.com/login.jsp
 
 ## Local Setup

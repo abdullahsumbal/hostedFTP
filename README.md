@@ -1,6 +1,6 @@
 
 # HostedFTP Coding Test – Setup Notes
-
+![img.png](img.png)
 The web app is hosted on a custom HTTPS domain.
 https://hostedftp.abdullahsumbal.com/login.jsp
 

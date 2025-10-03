@@ -6,8 +6,9 @@
 6. how can I get get this tomcat on EC2. 
 7. instead setup up a database loally , I decied to use the database on the aws to save time. 
 8. creating the mysql , I went with the easy create option in aws
-9. set the public access to true so I can connect to the db. 
-   
+9. set the public access to true so I can connect to the db.
+10. next challenge: storing password. best way to do it add salt and then hash it. https://www.youtube.com/watch?v=zt8Cocdy15c
+11. how do i add the first password. 
 
 ***************
 Endpoint

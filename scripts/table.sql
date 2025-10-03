@@ -6,7 +6,7 @@ CREATE TABLE users (
   username VARCHAR(50) NOT NULL UNIQUE,
   password_hash VARBINARY(256) NOT NULL,
   salt VARBINARY(32) NOT NULL,
-  full_name VARCHAR(100) NOT NULL,
+  full_name VARCHAR(100) NOT NULL
 );
 
 CREATE TABLE interview_details (
